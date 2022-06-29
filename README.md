@@ -11,7 +11,6 @@
 ## Tools
 ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white) ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white) ![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white)
 
-Apache Maven
 ## Blog
 
 | Plugin | URL |
